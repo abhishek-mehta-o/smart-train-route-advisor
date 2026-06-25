@@ -1,0 +1,60 @@
+{
+  "status": true,
+  "message": "Success",
+  "timestamp": 1782333420756,
+  "data": [
+    {
+      "train_number": "13052",
+      "train_name": "Netaji Express",
+      "run_days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "train_src": "KLK",
+      "train_dstn": "HWH",
+      "from_std": "07:02",
+      "from_sta": "07:00",
+      "local_train_from_sta": 1860,
+      "to_sta": "00:54",
+      "to_std": "00:56",
+      "from_day": 1,
+      "to_day": 2,
+      "d_day": 1,
+      "from": "GZB",
+      "to": "KQR",
+      "from_station_name": "GHAZIABAD",
+      "halt_stn": 18,
+      "distance": 1042,
+      "to_station_name": "KODERMA",
+      "duration": "17:52",
+      "special_train": false,
+      "train_type": "MAIL EXPRESS",
+      "score": 25,
+      "score_train_type": 5,
+      "score_booking_requency": 0,
+      "frequency_perc": 0,
+      "from_distance_text": "",
+      "to_distance_text": "",
+      "has_pantry": false,
+      "is_monsoon_timing_applicable": false,
+      "duration_rating": 1,
+      "score_duration": 10,
+      "score_std": 10,
+      "score_user_preferred": 0,
+      "train_date": "15-07-2026",
+      "class_type": [
+        "2S",
+        "SL",
+        "CC",
+        "3A",
+        "2A",
+        "1A"
+      ]
+    }
+  ]
+}
