@@ -1,4 +1,4 @@
-# Smart Train Route Advisor 🚆
+# Smart Train Route Advisor
 
 A Python command-line tool that helps Indian railway passengers find the best train booking options when direct IRCTC tickets are unavailable or heavily waitlisted.
 
